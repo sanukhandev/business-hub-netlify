@@ -71,7 +71,7 @@ const BlogDetailsThird = () => {
                         </h4>
                         <div className="spacial">
                           <p>
-                            In today's fast-paced and competitive business
+                            In today&apos;s fast-paced and competitive business
                             world, seeking advice and guidance from consultants
                             has become increasingly crucial for companies aiming
                             to thrive and succeed. Consulting services offer
@@ -95,11 +95,12 @@ const BlogDetailsThird = () => {
                         <h6> 2. Objective Assessment and Analysis:</h6>
                         <p>
                           Consulting involves conducting objective assessments
-                          and analysis of a company's operations, strategies,
-                          and performance. Consultants use proven methodologies
-                          and tools to identify strengths, weaknesses,
-                          opportunities, and threats, providing businesses with
-                          valuable insights for improvement and growth.
+                          and analysis of a company&apos;s operations,
+                          strategies, and performance. Consultants use proven
+                          methodologies and tools to identify strengths,
+                          weaknesses, opportunities, and threats, providing
+                          businesses with valuable insights for improvement and
+                          growth.
                         </p>
                         <h6>3. Strategic Planning and Decision-Making:</h6>
                         <p>
@@ -156,14 +157,14 @@ const BlogDetailsThird = () => {
                         <p>
                           In conclusion, consulting is indispensable for
                           businesses seeking sustainable growth, innovation, and
-                          success in today's dynamic business environment. By
-                          leveraging the expertise of consultants, companies can
-                          address challenges, seize opportunities, and achieve
-                          their strategic objectives effectively. Whether it's
-                          strategic planning, problem-solving, change
-                          management, or market analysis, consulting services
-                          play a vital role in driving business excellence and
-                          resilience.
+                          success in today&apos;s dynamic business environment.
+                          By leveraging the expertise of consultants, companies
+                          can address challenges, seize opportunities, and
+                          achieve their strategic objectives effectively.
+                          Whether it&apos;s strategic planning, problem-solving,
+                          change management, or market analysis, consulting
+                          services play a vital role in driving business
+                          excellence and resilience.
                         </p>
                       </div>
                     </div>
