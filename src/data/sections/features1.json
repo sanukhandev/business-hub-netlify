@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-paint-bucket",
+        "title": "Investment opportunities",
+        "content": "In the era of innovation and development, companies and entrepreneurs are racing to achieve success and excellence in the global business market."
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-phone",
+        "title": "Establishing projects",
+        "content": "The UAE is one of the most attractive destinations for entrepreneurship in the world, and is characterized by an encouraging environment and advanced regulatory facilities."
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-display1",
+        "title": "Project development",
+        "content": "Business Hub provides project development services as it includes experts in the field of marketing and sales and is one of the most important companies in commercial brokerage "
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-diskette",
+        "title": "Project management",
+        "content": " Business Hub provides project management services and works to provide all the employees necessary to manage your project and helps you reduce the cost of your operational budget."
+    }
+]

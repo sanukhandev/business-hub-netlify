@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "title": "Let's Talk.",
+  "email": "hello@businesshub.abudhabi",
+  "phone": "+971 26340404",
+  "location": {
+    "first": "Abu Dhabi, Baghdad Street",
+    "second": "Al Dana area, United Arab Emirates"
+  }
+}

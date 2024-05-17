@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "image1": "/img/01.jpg",
+  "image2": "/img/02.jpg",
+  "exp": {
+    "nmb": 8,
+    "name": "Years Of Experience"
+  },
+  "title": { "first": "Unlimited Skills", "second": "for Super Projects." },
+  "content": {
+    "first": "Why ? Business Hub At Business Hub, we understand the challenges entrepreneurs face when entering a new market.",
+    "second": "Our services are designed to facilitate the process of setting up businesses in the UAE, allowing you to focus on what you do best – driving the success of your business."
+  },
+  "smallTitle": "About Us"
+}

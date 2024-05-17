@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Business Hub: Its role in supporting companies in the stages of establishment, development, and...",
+    "content": "In a rapidly evolving and competitive business landscape, companies often need specialized support and guidance to meet challenges, exploit opportunities, and achieve sustainable growth. Here comes the role of Business Hub as an essential ally for companies, as it provides comprehensive services aimed at assisting companies in the stages of establishment, development, and management.",
+    "image": "/img/blog/blog img1.webp",
+    "tags": ["WordPress", "Themeforest", "Vie"],
+    "date": {
+      "day": "01",
+      "month": "April"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Business Hub: Empowering Companies through Establishment",
+    "content": " In the fast-paced and competitive business landscape, companies often require specialized support and guidance to navigate challenges, capitalize on opportunities, and achieve sustainable growth. ",
+    "image": "/img/blog/blog img2.webp",
+    "tags": ["WordPress", "Themeforest", "Vie"],
+    "date": {
+      "day": "01",
+      "month": "April"
+    }
+  },
+  {
+    "id": 3,
+    "title": "The Importance of Consulting:",
+   "content":"In today's fast-paced and competitive business world, seeking advice and guidance from consultants has become increasingly crucial for companies aiming to thrive and succeed.",
+    "image": "/img/blog/blog img3.webp",
+    "tags": ["WordPress", "Themeforest", "Vie"],
+    "date": {
+      "day": "01",
+      "month": "April"
+    }
+  },
+  {
+    "id": 4,
+    "title": "The importance of consulting in practical success",
+    "content": " When we talk about the business world, consulting plays a crucial role in the success and continuity of companies. Here are some points that highlight the importance of consultations in this context",
+    "image": "/img/blog/b4.jpg",
+    "tags": ["WordPress", "Themeforest", "Vie"],
+    "date": {
+      "day": "28",
+      "month": "March"
+    }
+  }
+]
