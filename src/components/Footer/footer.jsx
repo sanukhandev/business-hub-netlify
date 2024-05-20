@@ -17,7 +17,7 @@ const Footer = ({ hideBGCOLOR }) => {
                 <li>
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
-                    <h6>Officeal Address</h6>
+                    <h6>Official Address</h6>
                     <p>
                       Baghdad Street, Al Dana area, Abu Dhabi, United Arab
                       Emirates
@@ -35,7 +35,8 @@ const Footer = ({ hideBGCOLOR }) => {
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
                     <h6>Call Us</h6>
-                    <p>+971 26340404</p>
+                    <p>+971 2 6340440</p>
+                    <p>+971 508959510</p>
                   </div>
                 </li>
               </ul>
@@ -44,13 +45,15 @@ const Footer = ({ hideBGCOLOR }) => {
 
           <div className="col-lg-4">
             <div className="item">
-              <div className="logo">
-                <img
-                  src={appData.footerLogo}
-                  style={{ width: "150px" }}
-                  alt=""
-                />
-              </div>
+              <Link href="/">
+                <div className="logo">
+                  <img
+                    src={appData.footerLogo}
+                    style={{ width: "150px" }}
+                    alt=""
+                  />
+                </div>
+              </Link>
               <div className="social">
                 <a href="https://www.facebook.com/profile.php?id=100057392223857 ">
                   <i className="fab fa-facebook-f"></i>
