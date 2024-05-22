@@ -37,11 +37,11 @@ const Home = () => {
       <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
       <Intro4 blackStar />
       <AboutUs3 />
+      <MinimalArea2 />
       <Works3 />
       {/* <Services3 /> */}
-      <MinimalArea2 />
       {/* <FullTestimonials classText="pb-0" /> */}
-      <Team />
+      {/* <Team /> */}
       <Blogs4 />
       <CallToAction />
       <Footer />

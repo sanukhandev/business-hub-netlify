@@ -35,14 +35,14 @@ const About = () => {
   return (
     <LightTheme>
       <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
-      <PagesHeader />
+      {/* <PagesHeader /> */}
       <AboutIntro />
+      <MinimalArea />
       <Services style="4item" />
       {/* <VideoWithTestimonials /> */}
       {/* <SkillsCircle from="aboutPage" /> */}
-      <Team />
-      <MinimalArea />
-      <Clients theme="light" />
+      {/* <Team /> */}
+      {/* <Clients theme="light" /> */}
       <CallToAction />
       <Footer />
     </LightTheme>

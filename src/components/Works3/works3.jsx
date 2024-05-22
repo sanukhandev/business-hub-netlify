@@ -77,16 +77,16 @@ const Works3 = () => {
                       spaceBetween: 0,
                     },
                     640: {
-                      slidesPerView: 1,
+                      slidesPerView: 2,
                       spaceBetween: 0,
                     },
                     767: {
-                      slidesPerView: 1,
+                      slidesPerView: 3,
                       spaceBetween: 0,
                       centeredSlides: false,
                     },
                     991: {
-                      slidesPerView: 2,
+                      slidesPerView: 4,
                     },
                   }}
                 >

@@ -37,7 +37,7 @@ const ServicesPage = () => {
     <LightTheme>
       <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
       <PagesHeader />
-      <AboutIntro />
+      {/* <AboutIntro /> */}
       <Services5 />
       <CallToAction />
       <Footer />

@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-import React from 'react'
+import React from "react";
 
 const PagesHeader = () => {
   return (
@@ -14,11 +14,11 @@ const PagesHeader = () => {
               </h1>
             </div>
           </div>
-          <div className="col-lg-10">
+          {/* <div className="col-lg-10">
             <div className="img">
               <img src="/img/slid/about.jpg" alt="" />
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
       <div className="half sub-bg">

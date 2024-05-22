@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        
+        "title": "Strategic consulting",
+        "content": "We provide detailed consultations to understand your project needs and design a customized business plan that suits the commercial environment in the UAE."
+    },
+    {
+        "id": 2,
+       
+        "title": "Preparing and submitting legal documents",
+        "content": "From registration and licensing to legal compliance, we manage all the necessary processes to ensure your project takes off without problems."
+    },
+    {
+        "id": 3,
+    
+        "title": "Ongoing support",
+        "content": "Once your business is established, we continue to provide support to ensure you adapt to the market and achieve sustainable success."  },
+    {
+        "id": 4,
+        
+        "title": "Communication with government agencies",
+        "content": "We handle all the details related to dealing with government agencies to establish your project, allowing you to start your business quickly and efficiently." }
+]

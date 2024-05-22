@@ -21,9 +21,9 @@ const AboutIntro = () => {
                 >
                   {AboutInfo1Data.paragraph1}
                 </p>
-                <p className="wow txt words chars splitting" data-splitting>
+                {/* <p className="wow txt words chars splitting" data-splitting>
                   {AboutInfo1Data.paragraph2}
-                </p>
+                </p> */}
               </Split>
             </div>
           </div>

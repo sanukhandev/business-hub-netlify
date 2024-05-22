@@ -1,5 +1,5 @@
 import React from "react";
-import featuresData from "../../data/sections/features.json";
+import featuresData from "../../data/sections/features about.json";
 
 const Services = ({ style, lines }) => {
   return (
@@ -38,9 +38,6 @@ const Services = ({ style, lines }) => {
                   }s`}
                 >
                   <div className="item-box">
-                    <div>
-                      <span className={`icon ${feature.icon}`}></span>
-                    </div>
                     <div className="cont">
                       <h6>{feature.title}</h6>
                       <p>{feature.content}</p>
