@@ -25,12 +25,13 @@ const Works3 = () => {
           <div className="row">
             <div className="col-lg-8 col-md-10">
               <div className="sec-head">
-                <h6 className="wow fadeIn" data-wow-delay=".5s">
-                  Portfolio
-                </h6>
-                <h3 className="wow color-font">
-                  Our Recent Web Design &amp; <br /> Some Past Projects.
+                <h3 className="wow fadeIn color-font mb-4" data-wow-delay=".5s">
+                  Our Clients
                 </h3>
+                <h6 className="wow ">
+                  Our area of practice is quite wide: design, graphics,
+                  branding, development.
+                </h6>
               </div>
             </div>
           </div>
@@ -94,22 +95,8 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/2.jpg" alt="" />
+                          <img src="/img/customers/Al Huqooq.png" alt="" />
                         </span>
-                      </div>
-                      <div className="cont">
-                        <h6>
-                          {/* <Link href={`/works3/works3-dark`}>
-                          </Link> */}
-                          art &amp; illustration
-                        </h6>
-                        <h4>
-                          {/* <Link
-                            href={`/project-details2/project-details2-dark`}
-                          > */}
-                          Inspiring new space
-                          {/* </Link> */}
-                        </h4>
                       </div>
                     </div>
                   </SwiperSlide>
@@ -118,22 +105,8 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/1.jpg" alt="" />
+                          <img src="/img/customers/albayt.png" alt="" />
                         </span>
-                      </div>
-                      <div className="cont">
-                        <h6>
-                          {/* <Link href={`/works3/works3-dark`}> */}
-                          art &amp; illustration
-                          {/* </Link> */}
-                        </h6>
-                        <h4>
-                          {/* <Link
-                            href={`/project-details2/project-details2-dark`}
-                          > */}
-                          Inspiring new space
-                          {/* </Link> */}
-                        </h4>
                       </div>
                     </div>
                   </SwiperSlide>
@@ -143,22 +116,8 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/4.jpg" alt="" />
+                          <img src="/img/customers/althawani.png" alt="" />
                         </span>
-                      </div>
-                      <div className="cont">
-                        <h6>
-                          {/* <Link href={`/works3/works3-dark`}> */}
-                          art &amp; illustration
-                          {/* </Link> */}
-                        </h6>
-                        <h4>
-                          {/* <Link
-                            href={`/project-details2/project-details2-dark`}
-                          > */}
-                          Inspiring new space
-                          {/* </Link> */}
-                        </h4>
                       </div>
                     </div>
                   </SwiperSlide>
@@ -167,22 +126,8 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/5.jpg" alt="" />
+                          <img src="/img/customers/bring it in.png" alt="" />
                         </span>
-                      </div>
-                      <div className="cont">
-                        <h6>
-                          {/* <Link href={`/works3/works3-dark`}>
-                          </Link> */}
-                          art &amp; illustration
-                        </h6>
-                        <h4>
-                          {/* <Link
-                            href={`/project-details2/project-details2-dark`}
-                          >
-                          </Link> */}
-                          Inspiring new space
-                        </h4>
                       </div>
                     </div>
                   </SwiperSlide>
@@ -191,22 +136,174 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/6.jpg" alt="" />
+                          <img src="/img/customers/elite.png" alt="" />
                         </span>
                       </div>
-                      <div className="cont">
-                        <h6>
-                          {/* <Link href={`/works3/works3-dark`}>
-                          </Link> */}
-                          art &amp; illustration
-                        </h6>
-                        <h4>
-                          {/* <Link
-                            href={`/project-details2/project-details2-dark`}
-                          >
-                          </Link> */}
-                          Inspiring new space
-                        </h4>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/customers/hallyu style.png" alt="" />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/customers/irish pub.png" alt="" />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/customers/kids palace.png" alt="" />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/customers/mabrooka.png" alt="" />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/customers/masa.png" alt="" />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/customers/patterns.png" alt="" />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/customers/persona.png" alt="" />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/customers/planthead.png" alt="" />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/customers/purebliss.png" alt="" />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/customers/rba.png" alt="" />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/customers/solis.png" alt="" />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/customers/trident.png" alt="" />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/customers/vibra.png" alt="" />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/customers/wadi doan.png" alt="" />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img
+                            src="/img/customers/wonder delights.png"
+                            alt=""
+                          />
+                        </span>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img
+                            src="/img/customers/wrapped in silk.png"
+                            alt=""
+                          />
+                        </span>
                       </div>
                     </div>
                   </SwiperSlide>

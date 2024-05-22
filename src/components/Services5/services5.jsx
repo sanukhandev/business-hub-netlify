@@ -39,7 +39,7 @@ const Services5 = () => {
             >
               <div className="item-box no-curve">
                 <div>
-                  <span className={`icon color-font ${item.icon}`}></span>
+                  <img src={item.icon} />
                 </div>
                 <div className="cont">
                   <h6>{item.title}</h6>
@@ -66,7 +66,7 @@ const Services5 = () => {
             >
               <div className="item-box no-curve">
                 <div>
-                  <span className={`icon color-font ${item.icon}`}></span>
+                  <img src={item.icon} />
                 </div>
                 <div className="cont">
                   <h6>{item.title}</h6>
@@ -94,7 +94,7 @@ const Services5 = () => {
             >
               <div className="item-box no-curve">
                 <div>
-                  <span className={`icon color-font ${item.icon}`}></span>
+                  <img src={item.icon} />
                 </div>
                 <div className="cont">
                   <h6>{item.title}</h6>

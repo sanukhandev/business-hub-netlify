@@ -38,7 +38,7 @@ const Home = () => {
       <Intro4 blackStar />
       <AboutUs3 />
       <Works3 />
-      <Services3 />
+      {/* <Services3 /> */}
       <MinimalArea2 />
       {/* <FullTestimonials classText="pb-0" /> */}
       <Team />

@@ -1,25 +1,25 @@
 [
     {
         "id": 1,
-        "icon": "pe-7s-paint-bucket",
+        "icon":"/img/service icons/marketing services.png",
         "title": "Marketing services",
         "content": "To achieve success in the local market, it requires effective marketing, whether through electronic or non-electronic media"
     },
     {
         "id": 2,
-        "icon": "pe-7s-phone",
+        "icon": "/img/service icons/restructuring projects.png",
         "title": "Restructuring projects",
         "content": "Business Hub offers restructuring projects in a way that serves the interest of business continuity by reducing expenses and reemploying the workforce correctly."
     },
     {
         "id": 3,
-        "icon": "pe-7s-display1",
+        "icon": "/img/service icons/commercial brokerage.png",
         "title": "Commercial brokerage",
         "content": "Mediation in buying and selling operations: We mediate between sellers and buyers to ensure that deals are achieved in a profitable manner for both parties."
     },
     {
         "id": 4,
-        "icon": "pe-7s-diskette",
+        "icon": "/img/service icons/commercial representation.png",
         "title": "Commercial representation",
         "content": "Business Hub provides commercial representation services to companies inside and outside the UAE, provided that our role is limited to representing other companies."
     }

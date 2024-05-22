@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "icon": "pe-7s-paint-bucket",
+        "icon": "/img/service icons/petroleum.png",
         "title": "Petroleum consulting",
         "content": " We provide consultations and solutions in the oil field in the oil fields and oil refineries sector, assessing the extent of the damage and finding alternative solutions. "
     },
     {
         "id": 2,
-        "icon": "pe-7s-phone",
+        "icon": "/img/service icons/marketing consulting.png",
         "title": "Marketing consulting",
         "content": "BUSINESS HUB provides marketing consulting service as a specialized service aimed at enhancing the success of companies in the market…." },
     {
         "id": 3,
-        "icon": "pe-7s-display1",
+        "icon": "/img/service icons/economic advice.png",
         "title": "Economic advice",
         "content": "Economic consulting service as part of our range of specialized services. We work to help companies understand and analyze economic dynamics..." }
 ]
