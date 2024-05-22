@@ -10,9 +10,10 @@ const Intro4 = ({ sliderRef, blackStar }) => {
         <div className="row justify-content-center">
           <div className="col-lg-10">
             <div className="cont text-center">
-              <h1>
-                <span className="color-font">Begin </span> your UAE project with
-                <span className="color-font">Business Hub</span>.
+              <h1 style={{ color: "#375761" }}>
+                Begin
+                <span style={{ color: "#c5815d" }}> your UAE project with</span>
+                Business Hub.
               </h1>
             </div>
           </div>
