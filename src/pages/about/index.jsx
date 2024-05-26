@@ -41,7 +41,7 @@ const About = () => {
       <Services style="4item" />
       {/* <VideoWithTestimonials /> */}
       {/* <SkillsCircle from="aboutPage" /> */}
-      {/* <Team /> */}
+      <Team />
       {/* <Clients theme="light" /> */}
       <CallToAction />
       <Footer />
