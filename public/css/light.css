@@ -1086,7 +1086,7 @@ span:hover {
 }
 
 .loading {
-  color: #fff;
+  color: #d4a581;
   position: fixed;
   left: 50%;
   top: calc(50% - 40px);
@@ -3413,9 +3413,9 @@ body {
   width: 500px;
   height: 500px;
   border-radius: 70%;
-  background-image: -webkit-linear-gradient(45deg, #375761,#c5815b);
-  background-image: -o-linear-gradient(45deg, #375761,#c5815b);
-  background-image: linear-gradient(45deg, #375761,#c5815b);
+  background-image: -webkit-linear-gradient(45deg, #3ac7f2,#58a9b8);
+  background-image: -o-linear-gradient( 45deg, #3ac7f2,#58a9b8);
+  background-image: linear-gradient(45deg, #3ac7f2,#58a9b8);
   opacity: 0.25;
   -webkit-filter: blur(100px);
   filter: blur(100px);
@@ -3426,9 +3426,9 @@ body {
   top: -250px;
   right: -250px;
   bottom: auto;
-  background-image: -webkit-linear-gradient(45deg, #375761,#c5815b);
-  background-image: -o-linear-gradient(45deg, #375761,#c5815b);
-  background-image: linear-gradient(45deg, #375761,#c5815b);
+  background-image: -webkit-linear-gradient(45deg, #f57425,#c77a40);
+  background-image: -o-linear-gradient(45deg, #f57425,#c77a40);
+  background-image: linear-gradient(45deg, #f57425,#c77a40);
 }
 
 .main-content {

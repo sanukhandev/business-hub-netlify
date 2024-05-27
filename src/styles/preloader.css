@@ -34,18 +34,18 @@
   right: 100%;
   height: 100%;
   width: 100%;
-  background: #12c2e9;
+  background: #c5815b;
   background: -webkit-gradient(
     linear,
     left top,
     right top,
-    from(#12c2e9),
-    color-stop(#c471ed),
-    to(#f64f59)
+    from(#c5815b),
+    color-stop(#7f6c5e),
+    to(#375761)
   );
-  background: -webkit-linear-gradient(left, #12c2e9, #c471ed, #f64f59);
-  background: -o-linear-gradient(left, #12c2e9, #c471ed, #f64f59);
-  background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+  background: -webkit-linear-gradient(left, #c5815b, #7f6c5e, #375761);
+  background: -o-linear-gradient(left, #c5815b, #7f6c5e, #375761);
+  background: linear-gradient(to right, #c5815b, #7f6c5e, #375761);
 }
 
 .pace.pace-inactive {
