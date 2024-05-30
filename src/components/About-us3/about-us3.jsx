@@ -1,17 +1,19 @@
 /* eslint-disable @next/next/no-img-element */
-import React from "react";
+import React, { useEffect, useState } from "react";
 import Split from "../Split";
 import Link from "next/link";
 import AboutUs3date from "../../data/sections/about-us3.json";
 import { thumparallax, thumparallaxDown } from "../../common/thumparallax";
 
-const AboutUs3 = () => {
+const AboutUs3 = ({ posts }) => {
   React.useEffect(() => {
     setTimeout(() => {
       thumparallax();
       thumparallaxDown();
     }, 1000);
   }, []);
+
+  const about = posts.data[0];
   return (
     <section className="agency section-padding position-re">
       <div className="container">
@@ -58,13 +60,12 @@ const AboutUs3 = () => {
             <div className="content">
               <Split>
                 <h4 className="wow words chars splitting" data-splitting>
-                  {AboutUs3date.title.first} <br /> {AboutUs3date.title.second}
+                  {about.attributes.Heading}
                 </h4>
               </Split>
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                  {AboutUs3date.content.first} <br />
-                  {AboutUs3date.content.second}
+                  {about.attributes.Description}
                 </p>
               </Split>
               <Link href={`/about`}>
