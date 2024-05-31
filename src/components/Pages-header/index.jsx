@@ -3,14 +3,13 @@ import React from "react";
 
 const PagesHeader = () => {
   return (
-    <header className="pages-header circle-bg valign">
+    <header className="pages-header  valign">
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-lg-10">
             <div className="cont mt-100 mb-50 text-center">
               <h1 className="color-font fw-700">
-                Our dedicated team of creatives is bursting with talent,
-                experience and passion for what we do.
+                Our dedicated team of creatives is bursting with talent
               </h1>
             </div>
           </div>

@@ -1,35 +1,89 @@
 [
     {
         "id": 1,
-        "title": "How to use solid color combine with simple furnitures.",
-        "content": "My job is simple and sophisticated, so it is possible to describe and simple, and flowery language. I love the feel and sophistication of its superiority. I like people with a keen mind and at the same time easy to talk to. These qualities can be combined perfectly natural. However, things like people look miserable, if these properties are connected.",
-        "image": "/img/blog/l1.jpg",
-        "tags": ["WordPress", "Themeforest", "Vie"],
-        "date": {
-            "day": "07",
-            "month": "August"
-        }
+        "title": "Branding",
+        "content": " We assist companies in creating a unique and strong   identity that sets them apart from competitors. This     includes designing logos, developing color schemes and  fonts, and crafting marketing messages. Our expertise   extends to market and target audience analysis to ensure  the brand identity effectively reflects the company's  values and advantages. We have worked with numerous    companies to help them build brand identities that stay in   customers' minds and enhance their loyalty",
+             "image": "/img/services/2.jpeg"
+        
     },
     {
         "id": 2,
-        "title": "Build a Beautiful Blog With Ease",
-        "content": "My job is simple and sophisticated, so it is possible to describe and simple, and flowery language. I love the feel and sophistication of its superiority. I like people with a keen mind and at the same time easy to talk to. These qualities can be combined perfectly natural. However, things like people look miserable, if these properties are connected.",
-        "image": "/img/blog/l2.jpg",
-        "tags": ["WordPress"],
-        "date": {
-            "day": "07",
-            "month": "August"
-        }
+        "title": "Website Development",
+        "content": " We design and develop professional websites that provide an excellent user experience. Utilizing the latest    technologies like HTML5, CSS3, and JavaScript, we build   interactive and engaging websites. Additionally, we  ensure that the websites are responsive and have high    loading speeds to improve user experience and increase    conversion rates. Our team has extensive experience in  building e-commerce sites, blogs, and corporate   websites",
+        "image": "/img/services/3.jpeg"
+        
     },
     {
         "id": 3,
-        "title": "Build a Beautiful Blog With Ease",
-        "content": "My job is simple and sophisticated, so it is possible to describe and simple, and flowery language. I love the feel and sophistication of its superiority. I like people with a keen mind and at the same time easy to talk to. These qualities can be combined perfectly natural. However, things like people look miserable, if these properties are connected.",
-        "image": "/img/blog/l3.jpg",
-        "tags": ["WordPress", "Themeforest", "Vie"],
-        "date": {
-            "day": "07",
-            "month": "August"
-        }
-    } 
+        "title": "Search Engine Optimization (SEO)",
+        "content": " We improve clients' website rankings in search engine    results through comprehensive SEO strategies. This    includes keyword research, content optimization, and  building backlinks. We use advanced analytics tools such    as Google Analytics and SEMrush to track performance   and make continuous improvements. Our expertise helps  clients increase their online visibility, attracting more    visitors and potential customers ",
+        "image": "/img/services/4.jpeg"
+        
+    },
+    {
+        "id": 4,
+        "title": "Content Marketing",
+        "content": " We provide high-quality content that attracts and   educates potential customers. This includes writing  blogs, creating articles, and producing videos. We believe   valuable content is the foundation of a successful     marketing strategy. Our team collaborates with you to   understand your target audience and create content that   aligns with their interests and solves their problems,     enhancing engagement and building trust with your  brand ",
+        "image": "/img/services/5.jpeg"
+        
+    },
+    {
+        "id": 5,
+        "title": "Social Media Marketing",
+        "content": " We leverage social media platforms such as Facebook,   Instagram, and LinkedIn to expand your company's reach and engage with the audience. We create and manage    effective marketing campaigns, including daily content  posting, interacting with followers, and analyzing  performance. Our expertise in social media advertising helps achieve specific goals such as increasing brand  awareness or generating leads .",
+        "image": "/img/services/6.jpeg"
+        
+    },
+    {
+        "id": 6,
+        "title": "Email Marketing",
+        "content": "  We set up email campaigns targeting existing and   potential customers to keep them informed about offers  and services. Using advanced tools like Mailchimp and   Constant Contact, we design and send newsletters,  analyze performance, and generate reports to measure    and continually improve campaign effectiveness. Our  campaigns help build strong customer relationships and increase conversion rates .",
+        "image": "/img/services/7.jpeg"
+    },
+    {
+        "id": 7,
+        "title": "Online Advertising",
+        "content": " We manage paid advertising campaigns on platforms like  Google and Facebook to achieve the highest return on   investment (ROI). Using advanced targeting techniques   such as keywords and custom audiences, we ensure that  ads reach the right audience. Our team is proficient in   performance analysis and strategy adjustments to    achieve the best possible results .",
+        "image": "/img/services/8.jpeg"
+        
+    },
+    {
+        "id": 8,
+        "title": "Public Relations (PR)",
+        "content":" We manage your company's reputation through PR  strategies that build a positive image and enhance trust. This includes writing and issuing press releases,  organizing media events, and crisis management. We   have strong relationships with media outlets to ensure   your message reaches the target audience effectively"  ,
+         "image": "/img/services/9.jpeg"
+        
+    },
+    {
+        "id": 9,
+        "title": "Referral Programs",
+        "content": " We develop referral programs that encourage satisfied  customers to bring in new clients. Using incentivized  reward systems, we ensure the success of these programs   and increase the number of referrals. Our expertise helps   design and implement effective referral programs that    deliver tangible results ",
+        "image": "/img/services/10.jpeg"
+        
+    },
+    {
+        "id": 10,
+        "title": "Events and Community Outreach",
+        "content": "  We organize events that help increase awareness of your  company and strengthen its relationship with the   community. We plan and execute events meticulously,   from concept to execution, ensuring a memorable  experience for participants. Additionally, we help you   highlight your company's commitment to social   responsibility",
+        "image": "/img/services/11.jpeg"
+        
+    },
+    {
+        "id": 11,
+        "title": "Marketing Plan",
+        "content": "We work with you to develop a comprehensive marketing  plan that outlines goals, strategies, and marketing   activities for a specific period. We analyze the market    and competitors to identify opportunities and threats,   and develop appropriate marketing strategies to achieve  your objectives. Our marketing plans include budget allocation, timelines, and resource distribution to ensure   effective and successful implementation. ",
+        "image": "/img/services/12.jpeg"
+        
+    },
+    {
+        "id": 12,
+        "title": "Marketing Strategy",
+        "content": " We help you develop long-term marketing strategies  aimed at enhancing your market position and increasing your market share. These strategies include analyzing   target segments, setting the marketing mix (Product, Price, Place, Promotion), and determining methods to  differentiate from competitors. We work on implementing,   monitoring, and adjusting strategies to ensure the best   possible outcomes . ",
+        "image": "/img/services/13.jpeg"
+        
+    }
+    
+    
+    
+    
 ]

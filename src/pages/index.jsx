@@ -12,6 +12,8 @@ import Intro4 from "../components/Intro4/intro4";
 import AboutUs3 from "../components/About-us3/about-us3";
 import Services3 from "../components/Services3/services3";
 import MinimalArea2 from "../components/Minimal-Area2/minimal-area2";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 const Home = () => {
   const navbarRef = React.useRef(null);
@@ -32,6 +34,7 @@ const Home = () => {
       }
     });
   }, [navbarRef]);
+
   return (
     <LightTheme>
       <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
@@ -50,3 +53,17 @@ const Home = () => {
 };
 
 export default Home;
+// export async function getStaticProps() {
+//   // Call an external API endpoint to get posts.
+//   // You can use any data fetching library
+//   const res = await fetch("http://localhost:1337/api/abouts");
+//   const posts = await res.json();
+
+//   // By returning { props: { posts } }, the Blog component
+//   // will receive `posts` as a prop at build time
+//   return {
+//     props: {
+//       posts,
+//     },
+//   };
+// }

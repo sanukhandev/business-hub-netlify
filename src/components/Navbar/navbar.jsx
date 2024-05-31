@@ -59,6 +59,7 @@ const Navbar = ({ lr, nr, theme }) => {
                 <span className="nav-link">Our Services</span>
               </Link>
             </li>
+
             <li className="nav-item ">
               <Link href={`/blog/blog-light`}>
                 <span className="nav-link ">Blog</span>
@@ -67,6 +68,11 @@ const Navbar = ({ lr, nr, theme }) => {
             <li className="nav-item">
               <Link href={`/contact/contact-light`}>
                 <a className="nav-link">Contact</a>
+              </Link>
+            </li>
+            <li className="nav-item ">
+              <Link href={`/marketing-services`}>
+                <span className="nav-link">Marketing Solutions</span>
               </Link>
             </li>
           </ul>

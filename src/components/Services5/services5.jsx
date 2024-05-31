@@ -14,14 +14,14 @@ const Services5 = () => {
                 Best Features
               </h6>
               <h3 className="wow color-font">
-                We are a new business establishment servicet agency
+                We are a new business establishment service agency
               </h3>
             </div>
           </div>
         </div>
-        <h4 className="wow color-font">
+        {/* <h4 className="wow color-font">
           Marketing and administrative services
-        </h4>
+        </h4> */}
         <div className="row">
           {featuresData1.map((item, index) => (
             <div
@@ -76,7 +76,7 @@ const Services5 = () => {
             </div>
           ))}
         </div>
-        <h4 className="wow color-font mt-3">Consulting services</h4>
+        {/* <h4 className="wow color-font mt-3">Consulting services</h4> */}
         <div className="row">
           {featuresData3.map((item, index) => (
             <div
