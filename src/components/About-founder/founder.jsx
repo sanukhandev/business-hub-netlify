@@ -31,17 +31,17 @@ const AboutFounder = () => {
                   safe and strategic portal for attracting investors and
                   developing projects in the United Arab Emirates. Leveraging a
                   blend of Emirati management and foreign expertise, the
-                  founder's vision encompasses comprehensive consulting services
+                  founders vision encompasses comprehensive consulting services
                   in economic, administrative, and marketing fields. Under the
-                  founder's leadership, the company has assembled a team of
+                  founders leadership, the company has assembled a team of
                   experts proficient in establishing both large and small
                   projects. These experts boast extensive experience in the UAE
                   markets, particularly in Dubai and Abu Dhabi, where they have
                   successfully implemented projects adhering to the highest
-                  standards and specifications. The founder's mission is to
+                  standards and specifications. The founders mission is to
                   create efficient and successful investment opportunities,
-                  transforming clients' dreams and ideas into profitable
-                  realities while fostering international collaboration.
+                  transforming clients dreams and ideas into profitable
+                  realities while fostering international collaboration.
                 </p>
               </Split>
 
