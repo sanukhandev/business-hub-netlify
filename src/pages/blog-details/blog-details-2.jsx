@@ -51,8 +51,8 @@ const BlogDetailsTwo = () => {
       </div>
       <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
       <PageHeader
-        title="Blogs."
-        paragraph="All the most current news and events of our creative team."
+        title="Blogs"
+        paragraph="All the most current news and events of our creative team"
       />
       <section className="blog-pg single section-padding pt-0">
         <div className="container">

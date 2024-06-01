@@ -36,11 +36,11 @@ const BlogDetailsLight = () => {
       </div>
       <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
       <PageHeader
-        title="Blog Details."
-        paragraph="All the most current news and events of our creative team."
+        title="Blog Details"
+        paragraph="All the most current news and events of our creative team"
       />
-          <BlogDetails theme="light" blog={"blog"} />
-          <Footer />
+      <BlogDetails theme="light" blog={"blog"} />
+      <Footer />
     </LightTheme>
   );
 };

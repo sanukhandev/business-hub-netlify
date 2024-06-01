@@ -2,7 +2,7 @@ import React from "react";
 import particlesConfig from "../../config/particle-config";
 import particlesBlackConfig from "../../config/pr-s-black";
 import Particles from "react-tsparticles";
-
+import svg from "./skyline.svg";
 const Intro4 = ({ sliderRef, blackStar }) => {
   return (
     <header ref={sliderRef} className="particles circle-bg valign">
