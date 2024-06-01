@@ -2,24 +2,22 @@ import React from "react";
 import particlesConfig from "../../config/particle-config";
 import particlesBlackConfig from "../../config/pr-s-black";
 import Particles from "react-tsparticles";
-import svg from "./skyline.svg";
+import VideoPlayer from "react-background-video-player";
+
 const Intro4 = ({ sliderRef, blackStar }) => {
   return (
     <header ref={sliderRef} className="particles circle-bg valign">
       <div className="container">
-        <div className="row justify-content-center">
-          <div className="col-lg-10">
-            <div className="cont text-center">
-              <h1 style={{ color: "#375761" }}>
-                Begin
-                <span style={{ color: "#c5815d" }}> your UAE project with</span>
-                Business Hub.
-              </h1>
-            </div>
-          </div>
-        </div>
+        <VideoPlayer
+          className="video"
+          src={
+            "https://res.cloudinary.com/dgwddohoe/video/upload/v1717191605/logo_reveal_zon4nu.mp4"
+          }
+          autoPlay={true}
+          muted={true}
+        />
       </div>
-
+      <div className="App"></div>
       <Particles
         id="particles-js"
         options={blackStar ? particlesBlackConfig : particlesConfig}
