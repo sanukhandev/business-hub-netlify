@@ -14,6 +14,7 @@ import Services3 from "../components/Services3/services3";
 import MinimalArea2 from "../components/Minimal-Area2/minimal-area2";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import AboutFounder from "../components/About-founder/founder";
 
 const Home = () => {
   const navbarRef = React.useRef(null);
@@ -39,6 +40,7 @@ const Home = () => {
     <LightTheme>
       <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
       <Intro4 blackStar />
+      <AboutFounder />
       <AboutUs3 />
       <MinimalArea2 />
       <Works3 />
