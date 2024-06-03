@@ -8141,7 +8141,12 @@ footer .item .copy-right p a {
   .bg-img {
     background-position: center !important;
   }
-
+.o-highlight{
+  color: #c5815b !important;
+}
+.b-highlight{
+  color:#375761;
+}
   .md-mb10 {
     margin-bottom: 10px;
   }
@@ -8468,7 +8473,7 @@ footer .item .copy-right p a {
 
   .min-area .content,
   .min-area .img {
-    padding: 120px 0;
+    padding: 40px 0;
   }
 
   .services .rtwo > div:nth-of-type(2),
