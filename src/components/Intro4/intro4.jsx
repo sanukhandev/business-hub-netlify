@@ -8,16 +8,24 @@ const Intro4 = ({ sliderRef, blackStar }) => {
   return (
     <header ref={sliderRef} className="particles circle-bg valign">
       <div className="container">
-        <VideoPlayer
+        <video autoPlay loop muted className="w-100 h-100">
+          <source
+            src="https://res.cloudinary.com/dgwddohoe/video/upload/v1717191605/logo_reveal_zon4nu.mp4"
+            type="video/mp4"
+          />
+          Your browser does not support the video tag.
+        </video>
+
+        {/* <VideoPlayer
           className="video"
           src={
             "https://res.cloudinary.com/dgwddohoe/video/upload/v1717191605/logo_reveal_zon4nu.mp4"
           }
           autoPlay={true}
           muted={true}
-        />
+        /> */}
       </div>
-      <div className="App"></div>
+
       <Particles
         id="particles-js"
         options={blackStar ? particlesBlackConfig : particlesConfig}
