@@ -19,7 +19,7 @@ const AboutFounder = () => {
         <div className="row">
           <div className="col-lg-6">
             <div className="img">
-              <img className="thumparallax-down" src="/img/khaled.jpg" alt="" />
+              <img className="thumparallax-down" src="/img/khaled.png" alt="" />
             </div>
           </div>
           <div className="col-lg-6 valign">

@@ -1,6 +1,7 @@
 import React from "react";
 import blog2Data from "../../data/blog2.json";
-import LightTheme from "../../layouts/Light";
+import DarkTheme from "../../layouts/Dark";
+
 import Navbar from "../../components/Navbar/navbar";
 import BlogListed from "../../components/Blog-list/blog-list";
 import PageHeader from "../../components/Page-header/page-header";
@@ -27,7 +28,7 @@ const BlogListLight = () => {
     });
   }, [navbarRef]);
   return (
-    <LightTheme>
+    <DarkTheme>
       <div className="circle-bg">
         <div className="circle-color fixed">
           <div className="gradient-circle"></div>
@@ -49,7 +50,7 @@ const BlogListLight = () => {
       />
       <BlogListed blogs={blog2Data} />
       <Footer />
-    </LightTheme>
+    </DarkTheme>
   );
 };
 
