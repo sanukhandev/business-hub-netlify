@@ -13,8 +13,9 @@ const Intro4 = ({ sliderRef, blackStar }) => {
           src={
             "https://res.cloudinary.com/dgwddohoe/video/upload/v1717191605/logo_reveal_zon4nu.mp4"
           }
-          autoPlay={true}
-          muted={true}
+          autoPlay
+          muted
+          playsInline
         />
       </div>
       <div className="App"></div>
@@ -22,7 +23,6 @@ const Intro4 = ({ sliderRef, blackStar }) => {
         id="particles-js"
         options={blackStar ? particlesBlackConfig : particlesConfig}
       />
-
       <div className="gradient-circle"></div>
       <div className="gradient-circle two"></div>
       <div className="line bottom left"></div>
