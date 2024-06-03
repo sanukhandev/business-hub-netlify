@@ -8,7 +8,7 @@ const Intro4 = ({ sliderRef, blackStar }) => {
   return (
     <header ref={sliderRef} className="particles circle-bg valign">
       <div className="container">
-        <video autoPlay loop muted className="w-100 h-100">
+        <video autoPlay loop muted playsInline className="w-100 h-100">
           <source
             src="https://res.cloudinary.com/dgwddohoe/video/upload/v1717191605/logo_reveal_zon4nu.mp4"
             type="video/mp4"
