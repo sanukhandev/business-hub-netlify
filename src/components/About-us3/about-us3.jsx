@@ -59,21 +59,27 @@ const AboutUs3 = () => {
             <div className="content">
               <Split>
                 <h4 className="wow words chars splitting" data-splitting>
-                  Unlimited Skills for Super Projects
+                  Our Excellence
                   {/* {about.attributes.Heading} */}
                 </h4>
               </Split>
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                  We provide business establishment services in the free zone
-                  with comprehensive solutions for entrepreneurs, which reduces
-                  the burdens and complexities associated with establishing a
-                  business in the Emirates. As a one-stop platform for
-                  entrepreneurs, we ensure a seamless experience by offering a
-                  range of business support services in a customer-centric
-                  environment making us the best choice for obtaining business
-                  licenses in the UAE
-                  {/* {about.attributes.Description} */}
+                  At Business Hub, we provide comprehensive solutions for
+                  business establishment in both free zones and mainland. As an
+                  all-encompassing platform for entrepreneurs, we ensure a
+                  seamless experience by offering a diverse range of business
+                  support services in a customer-centric environment, making us
+                  the ideal choice for obtaining business licenses in the UAE.
+                </p>
+                <p className="wow txt words chars splitting" data-splitting>
+                  With over 2000 business activities, Business Hub offers a wide
+                  array of business licenses across various sectors, enabling
+                  entrepreneurs to explore limitless business opportunities.
+                  Whether your company is commercial, industrial, or
+                  service-oriented, we provide the necessary licenses,
+                  approvals, and facilities to meet the requirements of your
+                  project.
                 </p>
               </Split>
               <Link href={`/about`}>
