@@ -19,29 +19,44 @@ const AboutFounder = () => {
         <div className="row">
           <div className="col-lg-6">
             <div className="img">
-              <img className="thumparallax-down" src="/img/khaled.jpg" alt="" />
+              <img src="/img/khaled.png" alt="" />
             </div>
           </div>
           <div className="col-lg-6 valign">
             <div className="content">
-              <h4 className="color-font">About Founder</h4>
+              <h4 className="color-font">About the Founder</h4>
               <Split>
                 <p className="wow txt words chars ">
-                  Mr.Khaled Saleh, founder of Business Hub has established a
-                  safe and strategic portal for attracting investors and
-                  developing projects in the United Arab Emirates. Leveraging a
-                  blend of Emirati management and foreign expertise, the
-                  founders vision encompasses comprehensive consulting services
-                  in economic, administrative, and marketing fields. Under the
-                  founders leadership, the company has assembled a team of
-                  experts proficient in establishing both large and small
-                  projects. These experts boast extensive experience in the UAE
-                  markets, particularly in Dubai and Abu Dhabi, where they have
-                  successfully implemented projects adhering to the highest
-                  standards and specifications. The founders mission is to
-                  create efficient and successful investment opportunities,
-                  transforming clients dreams and ideas into profitable
-                  realities while fostering international collaboration.
+                  My name is Khaled Saleh, the founder of Business Hub and an
+                  expert in business establishment, management, and development
+                  with over 10 years of experience. Over the years, I have
+                  worked with a diverse range of clients and companies, which
+                  has provided me with a deep understanding of the challenges
+                  and problems facing the industry.
+                </p>
+                <p>
+                  One of the main challenges I have faced is business
+                  development and management, which required innovative
+                  approaches and effective strategies to overcome. Through
+                  meticulous analysis and hard work, I have been able to develop
+                  specific solutions and strategies that have significantly
+                  improved performance and increased efficiency.
+                </p>
+                <p>
+                  I have also encountered challenges in project continuity,
+                  which required me to implement new techniques and follow best
+                  practices to ensure the best results for my clients. My
+                  continuous commitment to professional development and lifelong
+                  learning has enabled me to adapt my approach to the rapid
+                  changes in the market and provide innovative solutions that
+                  perfectly meet my clients needs.{" "}
+                </p>
+                <p>
+                  I believe that challenges are opportunities for learning and
+                  growth, and this mindset has helped me achieve great success
+                  in my field. If you are looking for a reliable partner to help
+                  you achieve your goals, I am here to provide you with the
+                  support and expertise you need.
                 </p>
               </Split>
 
