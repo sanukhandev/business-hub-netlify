@@ -33,7 +33,7 @@ const AboutUs3 = () => {
                       />
                     </div>
                     <div className="exp">
-                      <h2 className="nmb-font">{AboutUs3date.exp.nmb}</h2>
+                      <h2 className="nmb-font">{AboutUs3date.exp.nmb}+</h2>
                       <h6>{AboutUs3date.exp.name}</h6>
                     </div>
                   </div>

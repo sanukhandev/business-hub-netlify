@@ -19,7 +19,7 @@ const AboutFounder = () => {
         <div className="row">
           <div className="col-lg-6">
             <div className="img">
-              <img className="thumparallax-down" src="/img/khaled.png" alt="" />
+              <img src="/img/khaled.png" alt="" />
             </div>
           </div>
           <div className="col-lg-6 valign">
@@ -49,7 +49,7 @@ const AboutFounder = () => {
                   continuous commitment to professional development and lifelong
                   learning has enabled me to adapt my approach to the rapid
                   changes in the market and provide innovative solutions that
-                  perfectly meet my clients' needs.{" "}
+                  perfectly meet my clients needs.{" "}
                 </p>
                 <p>
                   I believe that challenges are opportunities for learning and
