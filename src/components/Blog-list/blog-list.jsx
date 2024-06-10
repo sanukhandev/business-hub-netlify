@@ -25,7 +25,7 @@ const BlogList = ({ blogs }) => {
                     <div className="col-lg-6 valign">
                       <div className="cont">
                         <div>
-                          <h5>
+                          <h5 style={{ color: "#dc5f3c" }}>
                             <a>{blogItem.title}</a>
                           </h5>
                           <p className="mt-10">{blogItem.content}</p>

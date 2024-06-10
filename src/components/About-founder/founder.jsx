@@ -23,7 +23,7 @@ const AboutFounder = () => {
             </div>
           </div>
           <div className="col-lg-6 valign">
-            <div className="content">
+            <div className="content text-justify">
               <h4 className="color-font">About the Founder</h4>
               <Split>
                 <p className="wow txt words chars ">

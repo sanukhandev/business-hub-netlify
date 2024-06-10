@@ -43,7 +43,6 @@ const MinimalArea2 = () => {
                 expansion.
               </p>
 
-              <h4>How Do Our Services Help You Achieve Your Goals? </h4>
               <h6>Allocate More Resources for Marketing and Development:</h6>
               <p>
                 By saving a significant portion of your budget, you can reinvest
