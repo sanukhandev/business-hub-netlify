@@ -35,10 +35,10 @@ const BlogListLight = () => {
           <div className="gradient-circle two"></div>
         </div>
       </div>
-      <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
+      <Navbar nr={navbarRef} lr={logoRef} />
       <PageHeader
         className="sub-bg"
-        title="DIGITAL MARKETING SOLUTIONS"
+        title=" MARKETING SOLUTIONS"
         paragraph="We are a marketing company focused on results and real 
         profit. Our goal is to increase your income. At 
         BusinessHub, we create custom cases tailored to your 
