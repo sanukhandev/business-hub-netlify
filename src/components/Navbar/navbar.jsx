@@ -17,9 +17,9 @@ const Navbar = ({ lr, nr, theme }) => {
           <a className="logo">
             {theme ? (
               theme === "themeL" ? (
-                <img ref={lr} src={appData.lightLogo} alt="logo" />
-              ) : (
                 <img ref={lr} src={appData.darkLogo} alt="logo" />
+              ) : (
+                <img ref={lr} src={appData.lightLogo} alt="logo" />
               )
             ) : (
               <img ref={lr} src={appData.lightLogo} alt="logo" />
@@ -71,7 +71,10 @@ const Navbar = ({ lr, nr, theme }) => {
               </Link>
             </li>
             <li className="nav-item ">
-              <Link to={`b5153d5b7c4f4f.site.godaddyarabicwsbonline.com`}>
+              <Link
+                href={`https://b5153d5b7c4f4f.site.godaddyarabicwsbonline.com/`}
+                passHref={true}
+              >
                 <span className="nav-link">Marketing Solutions</span>
               </Link>
             </li>
