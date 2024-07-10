@@ -71,7 +71,10 @@ const Navbar = ({ lr, nr, theme }) => {
               </Link>
             </li>
             <li className="nav-item ">
-              <Link href={`/marketing-services`}>
+              <Link
+                href={`https://b5153d5b7c4f4f.site.godaddyarabicwsbonline.com/`}
+                passHref={true}
+              >
                 <span className="nav-link">Marketing Solutions</span>
               </Link>
             </li>
