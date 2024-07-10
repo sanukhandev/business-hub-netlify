@@ -40,8 +40,8 @@ const Home = () => {
     <LightTheme>
       <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
       <Intro4 blackStar />
-      <AboutFounder />
       <AboutUs3 />
+      <AboutFounder />
       <MinimalArea2 />
       <Works3 />
       {/* <Services3 /> */}
