@@ -771,7 +771,7 @@ module.exports = import("swiper/react");;
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"lightLogo":"/img/logo.png","darkLogo":"/img/logo-marketing.png","footerLogo":"/img/logo white.png","showLoading":true}');
+module.exports = JSON.parse('{"lightLogo":"/img/logo.png","darkLogo":"/img/logo.png","footerLogo":"/img/logo white.png","showLoading":true}');
 
 /***/ }),
 
